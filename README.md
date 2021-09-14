@@ -1,3 +1,9 @@
+## README
+
+# License
+Carcinoma is open-sourced software licensed under the MIT license.
+
+# Carcinoma
 “Carcinoma” is a Python application, developed in Jupyter Notebook platform, built on top of the Keras framework.
 This software aims to help doctors classify breast tumors as benign or malignant, by using some simple statistical methods of Machine Learning.
 The architecture used falls under the category of Deep Learning and is called Artificial Neural Network (ANN).
